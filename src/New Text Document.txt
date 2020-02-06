@@ -1,0 +1,12 @@
+### Youtube BG Video Play Plugin:
+	https://github.com/rochestb/jQuery.YoutubeBackground
+
+
+
+Note::: 
+Corousel and this plugin both dont use anytime.
+Its Properly work Google Chrome	
+	
+
+### Another Tuttorials:
+	https://codepen.io/annaliahsiao/pen/aPJebN?__cf_chl_jschl_tk__=00cab6a0b6f9d94f734e614017a2f0f473b67e21-1577863254-0-AT2PtpuDcQlsnmPbcoGq4TZG9Wla1XV3Evm1dFiy2FWUSAWBN2wEOTEYu5SUqWabmzCHctq9xy4YfYEcHgy3ix7aRfw_ulEXdYURmrpwVxtGb_RCOdZ68BJekwffYToQxgBdjdU96ZSIM066rrEJlRTMf6SiwvwMwlN78DvgY7CHmbuYk1KKd9fvAwwiIGfSTlOvHs92T1cxyAT413pewQbTxyMqBkxevSdDhiz5oHYonSbfvmIBXPncxhLLFgYT3qR0-o80GpYKGEedlvQtnyTYvi2CdhXQyDzHsA0gMIj18vqTMwfqmtJ1KzEonjVDztx9osmu-tCgCfQygvJw-61Y5JbRd4j2722-mmeyW6aV
